@@ -1,0 +1,5 @@
+D:\Aulas\IFSP\2021\ADS-471-ED2-2021\projVendasCA\projVendasCA\bin\Debug\projVendasCA.exe
+D:\Aulas\IFSP\2021\ADS-471-ED2-2021\projVendasCA\projVendasCA\bin\Debug\projVendasCA.pdb
+D:\Aulas\IFSP\2021\ADS-471-ED2-2021\projVendasCA\projVendasCA\obj\x86\Debug\projVendasCA.exe
+D:\Aulas\IFSP\2021\ADS-471-ED2-2021\projVendasCA\projVendasCA\obj\x86\Debug\projVendasCA.pdb
+D:\Aulas\IFSP\2021\ADS-471-ED2-2021\projVendasCA\projVendasCA\obj\x86\Debug\projVendasCA.csprojResolveAssemblyReference.cache
